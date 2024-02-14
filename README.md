@@ -1,4 +1,4 @@
-Prime Flix - Aplicação de Filmes em Cartaz
+#Prime Flix - Aplicação de Filmes em Cartaz
 Bem-vindo ao Prime Flix! Esta é uma aplicação frontend desenvolvida em ReactJS que permite aos usuários visualizar uma lista de filmes em cartaz, ver detalhes sobre cada filme e salvar seus favoritos.
 
 Funcionalidades
