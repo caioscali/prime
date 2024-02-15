@@ -63,7 +63,7 @@ prime-flix/
 
 ## 🙍‍♂️ Autor
 
-- Este projeto foi desenvolvido por Caio Cezar Scali atravez do curso [Projeto Completo NodeJS, React, React Native, TypeScript](https://www.udemy.com/course/dev-fullstack/)]
+- Este projeto foi desenvolvido por Caio Cezar Scali atravez do curso [Projeto Completo NodeJS, React, React Native, TypeScript](https://www.udemy.com/course/dev-fullstack/)
 
 - Se tiver alguma dúvida ou sugestão, entre em contato através do email [caioscali@gmail.com](mailto:caioscali@gmail.com).
 
